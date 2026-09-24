@@ -1,14 +1,18 @@
 {
   "name": "create-mixin-gea",
   "version": "1.0.0",
-  "description": "",
+  "description": "Easily Set Up `geastack-community/mixin-template` via the CLI",
   "main": "index.js",
   "type": "module",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "gea",
+    "geastack",
+    "geajs",
+    "mixin",
+    "create",
+    "template"
+  ],
+  "author": "GeaStack Community",
   "license": "MIT",
   "dependencies": {
     "degit": "^3.10.0",
