@@ -1,6 +1,6 @@
 {
   "name": "create-mixin-gea",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easily Set Up `geastack-community/mixin-template` via the CLI",
   "main": "index.js",
   "type": "module",
