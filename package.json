@@ -17,5 +17,8 @@
   "dependencies": {
     "degit": "^3.10.0",
     "prompts": "^2.4.2"
+  },
+  "bin": {
+    "create-mixin-gea": "./bin/index.js"
   }
 }
